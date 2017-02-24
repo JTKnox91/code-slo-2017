@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+}
+
+.container-inline {
+  display: inline-flex;
+}
+
+.container-row {
+  flex-direction: row
+}
+
+.container-row-r {
+  flex-direction: row-reverse;
+}
+
+.container-col {
+  flex-direction: column;
+}
+
+.container-col-r {
+  flex-direction: column;
+}
+
+.item {
+  display: inline-block;
+  padding: 5px;
+}
+
+footer {
+  height: 40px;
+  background-color: grey
+}
+
+header {
+  height: 40px;
+  background-color: grey;
+}
