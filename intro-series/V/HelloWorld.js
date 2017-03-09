@@ -19,4 +19,8 @@ false
 // var word = “JavaScript” + “ is “ “awesome!”;
 //ERROR
 // var looselyTyped = “4” + 2;
-console.log(!(!![]));
+//console.log(!(!![]));
+
+
+setTimeout(()=>{console.log("A")}, 0);
+console.log("B");

@@ -1,3 +1,4 @@
+let sumOf = (n, m) => { return n+m; };
 // Create functions like the one above for subtraction, multiplication and division.
 let differenceOf = (n,m) => { return n-m; };
 let productOf = (n,m) => { return n*m; };
